@@ -1,0 +1,6 @@
+{
+    "name": "onepica/imagecdn",
+    "description": "Multi Content Delivery Network plugin for Magento",
+    "license": "tobedefined",
+    "type": "magento-module"
+}
